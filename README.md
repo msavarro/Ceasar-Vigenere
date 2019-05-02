@@ -7,4 +7,4 @@ Ceasar -> Permite encriptar y desencriptar mensajes con el Algoritmo Ceasar sele
 
 Vigenere -> Permite encriptar y desencriptar mensajes con el Algoritmo Vigenere seleccionando una clave.
 
-CeasarFuerzaBruta -> Permite desencriptar mensajes encriptados con el algoritmo Ceasar a traves de la fuerza bruta, probando todas las claves posibles y comparando posibles resultados con la base de datos de palabras registradas en el archivo Palabras.txt
+CeasarFuerzaBruta -> Permite desencriptar mensajes encriptados con el algoritmo Ceasar a traves de la fuerza bruta, probando todas las claves posibles y comparando posibles resultados con la base de datos de palabras registradas en el archivo "palabras.txt"
